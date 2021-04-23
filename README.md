@@ -5,7 +5,7 @@
 <p
 align="center">
   <a  style="margin-right:8px;text-decoration:"
-      href="https://xn--r1a.link/share/url?url=https%3A%2F%2Fgithub.com%2FHadaanallah%2Ftelegram-dakwah&text=Sebuah%20daftar%20kurasi%20kanal%20dakwah%20di%20Telegram."
+      href="https://xn--r1a.link/share/url?url=https%3A%2F%2Fs.id%2Ftelegram-dakwah&text=Kumpulan%20terkurasi%20kanal%20dakwah%20di%20Telegram."
       target="_blank">
     <img  
         src="https://img.shields.io/badge/Bagikan%20di%20Telegram-2CA5E0?logo=telegram&color=white"
@@ -15,7 +15,7 @@ align="center">
     />
   </a>
   <a  style="margin-right:8px"
-      href="https://twitter.com/intent/tweet?url=https://github.com/Hadaanallah/telegram-dakwah&text=Sebuah%20daftar%20kurasi%20kanal%20dakwah%20di%20Telegram%2E&hashtags=Dakwah,Islam,Telegram,Muslim"
+      href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fs.id%2Ftelegram-dakwah&text=Sebuah%20daftar%20kurasi%20kanal%20dakwah%20di%20Telegram%2E&hashtags=Dakwah,Islam,Telegram,Muslim"
       target="_blank">
     <img  
         src="https://img.shields.io/badge/Bagikan%20di%20Twitter-1DA1F2?logo=twitter&color=white"
