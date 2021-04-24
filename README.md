@@ -51,10 +51,13 @@ align="center">
 
 ### Kanal Lainnya
 
+- [BUKHATIR](https://t.me/infobukhatir)
+- [Dakwahvisual.id](https://t.me/storiesdakwah)
 - [ittiba.id](https://t.me/ittibaid)
 - [Mahasiswa Salaf](https://t.me/mahasiswa_salaf)
 - [Ma'had Umar bin Khattab Yogyakarta](https://t.me/mubkjogja)
 - [Manhaj Salaf](https://t.me/Manhaj_salaf1)
+- [Masjid Jogokariyan](https://t.me/masjidjogokariyan)
 - [Salaf Ittiba](https://t.me/salafittiba)
 - [sunnahmate](https://t.me/sunnahmateofficial)
 - [The Sunnah Path](https://t.me/@thesunnah_path)
